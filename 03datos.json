@@ -1,0 +1,18 @@
+{
+    "ejemoplos_json": {
+        "descripcion": "Ejemplo de un documentoJSON con varios tipos de datosy estructuras anidadas",
+        "datos": {
+            "nombre": "Yuli",
+            "edad": 17,
+            "activo": true,
+            "hobbies": ["dibujar", "jugar"],
+            "direccion": {
+                "calle":"calle Ab",
+                "cuidad": "jajajs",
+                "pais": "Mexico"
+            },
+            "contacto": null
+        },
+        "nota": "Pastel de carne"
+    }
+}
